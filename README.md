@@ -1,1 +1,1 @@
-# ImagJmacro
+# ImageJmacro
